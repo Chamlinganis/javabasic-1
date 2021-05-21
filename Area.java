@@ -35,7 +35,7 @@ else if(c=='S'){
  System.out.println(" The area of square is " +cr);
 }
 else{
-    System.out.println(" wrong character my friend. ask your first boy how to do it? ");
+    System.out.println(" wrong character my friend. ask Chamlinganis?? ");
 }
 }
 }
